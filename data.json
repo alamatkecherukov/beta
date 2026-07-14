@@ -1,0 +1,125 @@
+{
+  "pages": {
+    "home": {
+      "blocks": [
+        {
+          "id": "b0",
+          "type": "hero",
+          "title": "Rennale Renuely",
+          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "btnText": "Heses Roge",
+          "btnLink": "#",
+          "bgColor": "#1b3a2a"
+        },
+        {
+          "id": "b1",
+          "type": "dark",
+          "items": [
+            {
+              "title": "Exelgar is",
+              "desc": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "title": "Narcomersi",
+              "desc": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "title": "Cleotews",
+              "desc": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "title": "Weohe slos",
+              "desc": "Lorem ipsum dolor sit amet."
+            }
+          ],
+          "bgColor": "#264034"
+        },
+        {
+          "id": "b2",
+          "type": "color",
+          "items": [
+            {
+              "title": "Siara Seador",
+              "desc": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "title": "Teovrit",
+              "desc": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "title": "Voushuiercs",
+              "desc": "Lorem ipsum dolor sit amet."
+            }
+          ],
+          "bgColor": "#264034"
+        },
+        {
+          "id": "b3",
+          "type": "media",
+          "items": [
+            {
+              "title": "Название видео 1",
+              "desc": "Краткое описание.",
+              "link": "#"
+            },
+            {
+              "title": "Название видео 2",
+              "desc": "Краткое описание.",
+              "link": "#"
+            },
+            {
+              "title": "Название видео 3",
+              "desc": "Краткое описание.",
+              "link": "#"
+            }
+          ],
+          "bgColor": "#264034"
+        },
+        {
+          "id": "b4",
+          "type": "text",
+          "title": "Заголовок статьи",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "bgColor": "#264034"
+        },
+        {
+          "id": "b5",
+          "type": "article",
+          "title": "Название статьи",
+          "subtitle": "Краткое описание статьи",
+          "content": "Полный текст статьи. Здесь может быть несколько абзацев.",
+          "bgColor": "#264034"
+        },
+        {
+          "id": "b6",
+          "type": "footer",
+          "items": [
+            {
+              "label": "Instagram",
+              "link": "#"
+            },
+            {
+              "label": "Telegram",
+              "link": "#"
+            },
+            {
+              "label": "YouTube",
+              "link": "#"
+            }
+          ],
+          "copyright": "© 2026 Rennale Renuely",
+          "bgColor": "#1b3a2a"
+        }
+      ]
+    },
+    "articles": {
+      "blocks": []
+    },
+    "socials": {
+      "blocks": []
+    },
+    "about": {
+      "blocks": []
+    }
+  }
+}
